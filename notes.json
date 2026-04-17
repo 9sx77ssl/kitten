@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "title": "First synced entry",
+    "body": "This note was synced from the r8 app to GitHub",
+    "createdAt": 1713387600000,
+    "threadUrl": "https://lolz.live/threads/1234567"
+  },
+  {
+    "id": "2",
+    "title": "Rain effect on website",
+    "body": "The canvas animation is now live on y7v.lol",
+    "createdAt": 1713301200000
+  }
+]
